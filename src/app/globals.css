@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --branco: #fffffd;
+  --preto: #171717;
+  --azul: #457d97;
+  --marrom: #ccb24c;
+  --bege: #f7d683;
+  --verde: #fffdc0;
+}
+
+*{
+
+  scroll-behavior: smooth;
+}
+
+
+
+
